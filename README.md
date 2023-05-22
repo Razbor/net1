@@ -16,6 +16,7 @@ HTTP 403 Forbidden — стандартный код ответа HTTP, озна
 ![изображение](https://github.com/Razbor/net1/assets/19568831/c684bf50-25b6-4efe-8adb-aefb0025d451)
 
 3.Какой IP-адрес у вас в интернете?
+![изображение](https://github.com/Razbor/net1/assets/19568831/a46bcd3b-e7df-4d44-8104-7a437f1b5dbb)
 
 
 4.Какому провайдеру принадлежит ваш IP-адрес? Какой автономной системе AS? Воспользуйтесь утилитой whois.
@@ -24,10 +25,10 @@ HTTP 403 Forbidden — стандартный код ответа HTTP, озна
 
 Автономная система  AS8369
 ![изображение](https://github.com/Razbor/net1/assets/19568831/5548e954-c529-4b88-9532-621e5b1244df)
-![изображение](https://github.com/Razbor/net1/assets/19568831/2599d91a-9d05-4a28-ab25-8ffba297165f)
+
 
 5. Через какие сети проходит пакет, отправленный с вашего компьютера на адрес 8.8.8.8? Через какие AS? Воспользуйтесь утилитой traceroute
-![изображение](https://github.com/Razbor/net1/assets/19568831/e984d8e1-7e72-4005-be95-61be8f53c70f)
+![изображение](https://github.com/Razbor/net1/assets/19568831/2599d91a-9d05-4a28-ab25-8ffba297165f)
 
 6. Повторите задание 5 в утилите mtr. На каком участке наибольшая задержка — delay?
 ![изображение](https://github.com/Razbor/net1/assets/19568831/de47e869-436f-41f6-8fe5-253e3e0c4aa7)
